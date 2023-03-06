@@ -26,6 +26,9 @@ namespace RedBjorn.ProtoTiles.Example
                 HandleWorldClick();
             }
             PathUpdate();
+            
+       
+
         }
 
         public void Init(MapEntity map)

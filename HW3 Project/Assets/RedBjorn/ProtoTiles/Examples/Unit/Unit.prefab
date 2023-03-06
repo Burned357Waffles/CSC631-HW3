@@ -92,7 +92,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3bbdb48d53bf44746b46307747b23dc0, type: 2}
+  - {fileID: 2100000, guid: 45d9e29c02db8be419398f97860d3586, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -175,10 +175,8 @@ MonoBehaviour:
   Speed: 5
   Range: 10
   RotationNode: {fileID: 9103775379906749871}
-  AreaPrefab: {fileID: 114964435729023602, guid: fe2319e9d6e840f409af77b3e7a85259,
-    type: 3}
-  PathPrefab: {fileID: 114413117004689456, guid: 4eac60a74696c8142b18f93d4453e87d,
-    type: 3}
+  AreaPrefab: {fileID: 114964435729023602, guid: fe2319e9d6e840f409af77b3e7a85259, type: 3}
+  PathPrefab: {fileID: 114413117004689456, guid: 4eac60a74696c8142b18f93d4453e87d, type: 3}
 --- !u!1 &8793134353577196331
 GameObject:
   m_ObjectHideFlags: 0
