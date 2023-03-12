@@ -724,7 +724,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: Toggle Day/Night
 --- !u!222 &956749125
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5711,7 +5711,7 @@ GameObject:
   - component: {fileID: 1172875663}
   - component: {fileID: 1172875662}
   m_Layer: 0
-  m_Name: Button
+  m_Name: DayNightToggleButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5781,13 +5781,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2047564152}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 2047564153}
+        m_TargetAssemblyTypeName: DayNightToggle, Assembly-CSharp
+        m_MethodName: ToggleDayNight
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -5944,9 +5944,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2047564152}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9117b5fb0d0f2a479b52c570f4304cd, type: 3}
+  m_Script: {fileID: 11500000, guid: 9db72e7359b0b7c48bcd3ae319db5a38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  skyDomeMaterial: {fileID: 2100000, guid: e68f77e240a7f8643b5cc4253dc37516, type: 2}
 --- !u!1001 &2063651500
 PrefabInstance:
   m_ObjectHideFlags: 0
