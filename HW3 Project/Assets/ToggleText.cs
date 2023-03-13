@@ -14,7 +14,7 @@ public class ToggleText : MonoBehaviour
 
     void Update() 
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetKey(KeyCode.Return))
         {
             gameObject.SetActive(false);
         }    
