@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
-    public string sceneName;
+    private string sceneName1 = "SampleScene";
+    private string sceneName2 = "Scene3";
     // Start is called before the first frame update
     void Start()
     {
@@ -17,9 +18,17 @@ public class LevelManager : MonoBehaviour
     {
         
     }
-
-    public void changeScene()
+     
+    public void SceneChange()
     {
-        SceneManager.LoadScene(sceneName);
+        if (SceneManager.GetActiveScene().name == sceneName1)
+        {
+            SceneManager.LoadScene(sceneName2);
+        }
+        else if (SceneManager.GetActiveScene().name == sceneName2)
+        {
+            SceneManager.LoadScene(sceneName1);
+        }
     }
+
 }
