@@ -129,8 +129,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -5, y: -2, z: 7}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 1
     SideHeight:
     - 0
     - 0
@@ -269,8 +269,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -4, y: -2, z: 6}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 1
     SideHeight:
     - 0
     - 0
@@ -279,7 +279,7 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -3, y: -2, z: 5}
-    Id: 98efd35f51fc1da41a2b0801384a5213
+    Id: 9c892fb15b6cd8845b21410572f0cd63
     MovableArea: 0
     SideHeight:
     - 0
@@ -409,8 +409,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -3, y: -1, z: 4}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -419,8 +419,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -2, y: -2, z: 4}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -549,8 +549,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -2, y: -1, z: 3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -560,7 +560,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -1, y: -1, z: 2}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -570,7 +570,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 0, y: -2, z: 2}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -580,7 +580,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 1, y: -2, z: 1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -609,8 +609,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 4, y: -4, z: 0}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -619,8 +619,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 5, y: -4, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -629,8 +629,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 6, y: -5, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -649,7 +649,7 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -5, y: 2, z: 3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
+    Id: 9c892fb15b6cd8845b21410572f0cd63
     MovableArea: 0
     SideHeight:
     - 0
@@ -669,8 +669,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -3, y: 1, z: 2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -680,7 +680,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -2, y: 0, z: 2}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -690,7 +690,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -1, y: 0, z: 1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -700,7 +700,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 0, y: -1, z: 1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -710,7 +710,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 1, y: -1, z: 0}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -720,7 +720,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 2, y: -2, z: 0}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -759,18 +759,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 6, y: -4, z: -2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -6, y: 3, z: 3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -779,8 +769,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -5, y: 3, z: 2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -789,7 +779,7 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -4, y: 2, z: 2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
+    Id: 9c892fb15b6cd8845b21410572f0cd63
     MovableArea: 0
     SideHeight:
     - 0
@@ -799,8 +789,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -3, y: 2, z: 1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -810,7 +800,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -2, y: 1, z: 1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -820,7 +810,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -1, y: 1, z: 0}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -830,7 +820,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 1, y: 0, z: -1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -840,7 +830,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 0, y: 0, z: 0}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -850,7 +840,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 2, y: -1, z: -1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -899,7 +889,7 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -6, y: 4, z: 2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
+    Id: f911f57591fddb14885af4dd838b7b60
     MovableArea: 0
     SideHeight:
     - 0
@@ -909,7 +899,7 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -5, y: 4, z: 1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
+    Id: f911f57591fddb14885af4dd838b7b60
     MovableArea: 0
     SideHeight:
     - 0
@@ -919,8 +909,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -4, y: 3, z: 1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -929,8 +919,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: -3, y: 3, z: 0}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -940,7 +930,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -2, y: 2, z: 0}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -950,7 +940,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: -1, y: 2, z: -1}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -970,7 +960,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 1, y: 1, z: -2}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -980,7 +970,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 2, y: 0, z: -2}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -989,8 +979,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 3, y: 0, z: -3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1028,59 +1018,9 @@ MonoBehaviour:
     - 0
     - 0
     - 0
-  - TilePos: {x: -6, y: 5, z: 1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
   - TilePos: {x: -5, y: 5, z: 0}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -4, y: 4, z: 0}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -3, y: 4, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -2, y: 3, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -1, y: 3, z: -2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1090,7 +1030,7 @@ MonoBehaviour:
     - 0
   - TilePos: {x: 0, y: 2, z: -2}
     Id: 26697f579febd8844834aeab5783acd2
-    MovableArea: 1
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1099,8 +1039,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 1, y: 2, z: -3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1129,8 +1069,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 4, y: 0, z: -4}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1139,8 +1079,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 5, y: 0, z: -5}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1149,58 +1089,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 6, y: -1, z: -5}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -6, y: 6, z: 0}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -5, y: 6, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -4, y: 5, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -3, y: 5, z: -2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -2, y: 4, z: -2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1229,8 +1119,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 1, y: 3, z: -4}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1279,36 +1169,6 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 6, y: 0, z: -6}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -6, y: 7, z: -1}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -5, y: 7, z: -2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -4, y: 6, z: -2}
     Id: 98efd35f51fc1da41a2b0801384a5213
     MovableArea: 0
     SideHeight:
@@ -1379,8 +1239,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 1, y: 4, z: -5}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1418,46 +1278,6 @@ MonoBehaviour:
     - 0
     - 0
     - 0
-  - TilePos: {x: -6, y: 8, z: -2}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -5, y: 8, z: -3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -4, y: 7, z: -3}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: -3, y: 7, z: -4}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
   - TilePos: {x: -2, y: 6, z: -4}
     Id: 98efd35f51fc1da41a2b0801384a5213
     MovableArea: 0
@@ -1479,18 +1299,8 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 3, y: 4, z: -7}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: 1, y: 5, z: -6}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
     SideHeight:
     - 0
     - 0
@@ -1499,16 +1309,6 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 2, y: 4, z: -6}
-    Id: 98efd35f51fc1da41a2b0801384a5213
-    MovableArea: 0
-    SideHeight:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  - TilePos: {x: 0, y: 5, z: -5}
     Id: 98efd35f51fc1da41a2b0801384a5213
     MovableArea: 0
     SideHeight:
@@ -1539,6 +1339,8956 @@ MonoBehaviour:
     - 0
     - 0
   - TilePos: {x: 6, y: 2, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 4, z: 3}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 2, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 1, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 1, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 0, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: -1, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: -2, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: -3, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: -3, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: -4, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: -4, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: -5, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: -5, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: -6, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: -7, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: -7, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: -8, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: -8, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: -9, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: -9, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: -10, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -10, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -10, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -11, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: -9, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: -8, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: -7, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: -6, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -11, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -12, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: -10, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: -9, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: -8, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: -7, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: -6, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: -6, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: -5, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: -5, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: -4, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: -3, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: -4, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: -6, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: -7, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: -8, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: -9, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: -10, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -11, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -12, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -13, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -13, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -14, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -14, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -15, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -15, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -14, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -13, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -12, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: -11, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: -10, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: -9, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: -8, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: -7, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: -6, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: -5, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: -5, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: -4, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: -4, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: -11, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: -11, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: -12, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -12, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -13, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -13, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -14, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -14, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -15, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -15, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -16, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -16, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -17, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: -10, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: -9, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: -7, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: -3, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: -2, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: -1, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 0, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 1, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 2, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 3, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 4, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 4, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 5, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 0, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: -1, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: -2, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: -2, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: -1, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 0, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 1, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 2, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 3, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 4, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 3, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 2, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 1, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 0, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 2, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 3, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 5, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 3, z: 3}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 3, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 5, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 12, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 13, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 14, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 15, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 11, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 10, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 9, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 8, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 8, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 7, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 7, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 6, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 5, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 6, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 13, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 14, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 10, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 9, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 11, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 12, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 13, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 14, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 3, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 4, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 2, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 1, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 0, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: -2, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: -3, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: -1, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: -1, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: -5, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: -6, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: -7, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: -6, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: -5, z: 14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: -4, z: 14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: -3, z: 14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: -3, z: 15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: -2, z: 14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: -4, z: 15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: -8, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: -9, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: -8, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: -10, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: -11, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: -12, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -13, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -14, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -15, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -16, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -17, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -9, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -8, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -7, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 1, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 0, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -1, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -2, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -2, z: -5}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -3, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -3, z: -4}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -4, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -4, z: -3}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -5, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -5, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -6, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: -6, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -7, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 1, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 0, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -1, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -1, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -2, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -3, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -4, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -5, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -6, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -7, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -8, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -9, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: -10, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -9, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: -8, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -11, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -10, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -9, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -8, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -7, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -6, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -5, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -4, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -3, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -2, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: -1, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 0, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 0, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 1, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 0, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -1, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -2, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -2, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -3, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -4, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -5, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -6, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -7, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -7, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -8, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -8, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -9, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -9, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -10, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -10, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -11, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -11, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -12, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -12, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -12, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -11, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -10, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -9, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -8, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -3, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -4, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -5, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -6, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: -7, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -6, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -5, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -4, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -3, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -2, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: -1, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -1, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 0, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 0, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 1, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: -13, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -14, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -15, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -16, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -14, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -13, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -13, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -13, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -12, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -11, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -12, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -12, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -11, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -10, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -11, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -10, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -9, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -9, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -10, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -8, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -7, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -8, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -9, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -8, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -7, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -6, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -7, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -6, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -5, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -4, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -5, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -6, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -5, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -4, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -3, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -3, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -4, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -2, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -1, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: -2, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -3, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -2, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: -1, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 0, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 15, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 16, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 17, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 18, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 19, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 20, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 22, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 21, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 21, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 22, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 16, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 23, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 20, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 24, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 17, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 25, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 18, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 26, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 19, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 26, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 25, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 24, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 24, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 23, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 23, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 25, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 24, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 25, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 24, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 24, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 23, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 23, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 22, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 23, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 22, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 22, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 21, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 21, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 20, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 20, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 19, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 19, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 18, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 18, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 17, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 17, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 16, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 16, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 16, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 15, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 15, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 15, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 14, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 14, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 13, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 12, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 11, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 10, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 9, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 8, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 7, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 6, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 5, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 5, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 4, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 4, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 3, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 2, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 1, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 0, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: -1, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 0, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 1, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 2, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 2, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 3, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 3, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 4, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 4, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 5, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 6, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 7, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 8, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 9, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 10, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 11, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 12, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 13, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 1, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 8, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 9, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 10, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 11, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 12, z: -28}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 12, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 11, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 10, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 7, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 6, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 5, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 6, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 7, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 8, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 9, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 23, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 23, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 22, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 21, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 21, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 20, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 19, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 18, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 18, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 17, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 17, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 16, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 16, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 15, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 15, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 14, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 13, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 13, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 12, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 13, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 14, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 14, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 15, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 16, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 16, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 17, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 18, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 18, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 19, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 19, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 20, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 20, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 21, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 21, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 22, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 22, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 23, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 22, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 21, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 20, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 19, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 17, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 11, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 11, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 12, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 12, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 13, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 13, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 14, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 14, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 15, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 15, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 16, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 17, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 17, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 17, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 18, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 17, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 18, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 18, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 19, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 20, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 20, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 21, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 21, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 22, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 22, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 21, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 20, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 20, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 19, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 19, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 19, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 9, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 10, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 10, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 11, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 12, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 12, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 13, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 13, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 14, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 14, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 15, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 15, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 15, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 16, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 16, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 16, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 16, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 15, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 15, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 16, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 17, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 18, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 18, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 17, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 18, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 19, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 19, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 20, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 19, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 20, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 21, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 19, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 18, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 16, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 17, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 18, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 18, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 18, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 17, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 17, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 16, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 15, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 14, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 15, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 15, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 17, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 16, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 16, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 17, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 16, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 15, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 15, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 14, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 15, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 16, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 17, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 16, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 15, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 14, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 13, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 12, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 11, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 11, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 12, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 13, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 14, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 15, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 15, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 14, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 13, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 12, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 11, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 9, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 8, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 7, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 8, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 11, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 11, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 12, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 12, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 13, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 14, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 14, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 13, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 14, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 14, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 13, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 13, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 12, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 11, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 11, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 10, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 10, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 6, z: -8}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 5, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 5, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 6, z: -9}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 4, z: -8}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 4, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 5, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 6, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 7, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 7, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 5, z: -9}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 3, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 3, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 4, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 5, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 6, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 6, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 4, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 2, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 2, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 2, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 3, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 4, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 2, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 3, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 4, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 5, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 6, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 5, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 1, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 1, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 3, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 4, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 3, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 2, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 1, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 2, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 2, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 3, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 3, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 4, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 4, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 5, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 5, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 5, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 5, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 6, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 7, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 7, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 9, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 8, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 7, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 6, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 6, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 7, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 7, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 8, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 8, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 9, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 10, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 12, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 12, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 11, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 11, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 10, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 10, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 9, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 9, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 8, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 8, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 7, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 7, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 6, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 6, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 7, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 8, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 8, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 9, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 9, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 10, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 11, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 10, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 8, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 9, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 10, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 11, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 12, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 11, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 10, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 13, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 13, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 12, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 11, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 11, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 12, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 14, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 13, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 12, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 10, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 9, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 27, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 26, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 25, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 24, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 20, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 19, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 18, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 17, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 11, y: 16, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 16, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 15, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 14, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 13, z: -28}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 14, z: -28}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 13, y: 15, z: -28}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 13, z: -29}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 15, y: 14, z: -29}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 16, y: 14, z: -30}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 14, y: 15, z: -29}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 12, y: 16, z: -28}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 9, y: 17, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 10, y: 17, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 8, y: 18, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 7, y: 18, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 6, y: 19, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 5, y: 19, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 20, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 20, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 21, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 21, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 22, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 22, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 23, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 23, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 24, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 24, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 25, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 25, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 26, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 26, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 27, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -11, y: 27, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -12, y: 28, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 28, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 27, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 26, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 25, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 24, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 23, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 22, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 21, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 20, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 19, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 18, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 17, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 16, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 15, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 14, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 13, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 12, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 11, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 10, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 9, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 8, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 7, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 6, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 5, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 4, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 3, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 2, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 1, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: 0, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: -1, z: 14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: -2, z: 15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -13, y: -3, z: 16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: -2, z: 16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: -1, z: 15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 0, z: 14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 1, z: 13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 2, z: 12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 3, z: 11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 4, z: 10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 5, z: 9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 6, z: 8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 7, z: 7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 8, z: 6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 9, z: 5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 10, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 11, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 12, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 13, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 14, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 15, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 16, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 17, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 18, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 19, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 20, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 21, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 22, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 23, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 24, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 25, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 26, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 27, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 28, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -14, y: 29, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 13, z: -30}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 12, z: -29}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 11, z: -28}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 10, z: -27}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 9, z: -26}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 8, z: -25}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 7, z: -24}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 6, z: -23}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 5, z: -22}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 4, z: -21}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 3, z: -20}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 2, z: -19}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 1, z: -18}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: 0, z: -17}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -1, z: -16}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -2, z: -15}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -3, z: -14}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -4, z: -13}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -5, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -6, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -7, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -8, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -9, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -10, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -11, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -12, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -13, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -14, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -15, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -16, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -17, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 17, y: -18, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 4, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 5, z: 4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 6, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 7, z: 3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 8, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 7, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 6, z: 2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 5, z: 2}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 5, z: 1}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 7, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 8, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 9, z: 1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 6, z: 1}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 6, z: 0}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 7, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 8, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 9, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 10, z: 0}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 11, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 9, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 10, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 8, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 7, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 7, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 12, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 11, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 10, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 6, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 9, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 13, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 12, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 11, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 10, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 10, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 13, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 12, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 11, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 10, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 10, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 9, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 8, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 11, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 8, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -9, y: 12, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 13, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -7, y: 14, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 13, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 12, z: -7}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 13, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 14, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -8, y: 14, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 11, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -6, y: 12, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 10, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -5, y: 9, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 8, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 8, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 9, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 9, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 7, z: -4}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 7, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 7, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 8, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 6, z: -6}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 7, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 6, z: -7}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 8, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 9, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 9, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 5, z: -6}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 5, z: -5}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 8, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 9, z: -11}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 1, y: 9, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 7, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 4, y: 8, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 2, y: 8, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 3, y: 9, z: -12}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: 0, y: 10, z: -10}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 10, z: -9}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 10, z: -8}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 5, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -3, y: 4, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 3, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -2, y: 4, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -1, y: 3, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 7, z: -3}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 6, z: -2}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 5, z: -1}
+    Id: 98efd35f51fc1da41a2b0801384a5213
+    MovableArea: 0
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -4, y: 4, z: 0}
+    Id: 26697f579febd8844834aeab5783acd2
+    MovableArea: 2
+    SideHeight:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - TilePos: {x: -10, y: 6, z: 4}
     Id: 98efd35f51fc1da41a2b0801384a5213
     MovableArea: 0
     SideHeight:
